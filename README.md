@@ -76,5 +76,5 @@ Don't press quit, it'll keep working normally and the Not Responding sign goes a
 
 ### Conclusion
 
-So that was it, we saw a simulation that demonstrates opinion clustering in societies in the context of Voting Behaviour. If you want a real life example of this, think about the Red and Blue states of USA. Crazy, right ?
+So that was it, we saw a simulation that demonstrates geographical opinion clustering in societies in the context of Voting Behaviour. If you want a real life example of this, think about the Red and Blue states of USA. Crazy, right ?
 
