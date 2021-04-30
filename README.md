@@ -51,8 +51,8 @@ See the following two photos of the simulation, one is the starting map and the 
 The starting map is random, it has people (living in the cells) that randomly believe in either the Green party or the Blue party. <br>
 People change their opinions because of the direct social influence by people around them, and After a few timesteps, we see the opinion clustering. <br>
 
-![Image1]()<br><br>
-![Image2]()<br>
+![Image1](https://github.com/astitva1905/Opinion-Clustering-in-Society/blob/main/Image1.jpeg)<br><br>
+![Image2](https://github.com/astitva1905/Opinion-Clustering-in-Society/blob/main/Image2.jpeg)<br>
 
 ### Instructions to use the simulation:
 
