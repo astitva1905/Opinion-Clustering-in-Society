@@ -74,7 +74,7 @@ People change their opinions because of the direct social influence by people ar
 P.S. - Don't worry if the pygame window says Not Responding, it does that if nothing is changing after some timesteps, which is expected after enough number of timesteps. <br>
 Don't press quit, it'll keep working normally and the Not Responding sign goes away once it's done with all the timesteps!
 
+### Conclusion
 
-
-
+So that was it, we saw a simulation that demonstrates opinion clustering in societies in the context of Voting Behaviour. If you want a real life example of this, think about the Red and Blue states of USA. Crazy, right ?
 
